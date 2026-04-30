@@ -1,0 +1,29 @@
+This repository contains two separately licensed work products:
+
+1. The dataset:
+   V16_Dataset_v1.0.csv
+   Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+   See LICENSE-DATASET.
+
+2. The report and associated written analysis:
+   V16_Investigation_v1.0.pdf
+   Executive_Brief_v1.0.pdf
+   README.md
+   README_Dataset.md
+   and any exported PDF, Markdown, or brief derived from them.
+   Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+   See LICENSE-REPORT.
+
+The licenses apply only to material authored, compiled, structured,
+annotated, or analysed by Belinda Álvarez. They do not relicense any
+underlying third-party source material reproduced, cited, or referred
+to within the work products, including but not limited to: Spanish
+Dirección General de Tráfico (DGT) certificates and registry pages;
+EU Declarations of Conformity and other manufacturer documentation;
+UK Companies House and Spanish corporate-register filings; European
+Commission and European Parliament documents; user manuals and
+product documentation; press articles; and any other public-record
+material referenced in the corpus. Each such item remains subject to
+its own copyright and licensing regime.
+
+SPDX-License-Identifier: CC-BY-4.0
